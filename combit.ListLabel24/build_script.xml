@@ -6,8 +6,8 @@
     <property name="dir.workspace" value="${dir.buildfile}/.."/>
     <property name="dir.jarfile" value="${dir.buildfile}/target"/>
     <target name="build_jar">
-        <jar destfile="${dir.jarfile}/combit.ListLabel24.jar" filesetmanifest="merge" manifest="${dir.workspace}/combit.ListLabel23/manifest.mf">
-            <fileset dir="${dir.workspace}/combit.ListLabel23/bin"/>
+        <jar destfile="${dir.jarfile}/combit.ListLabel24.jar" filesetmanifest="merge" manifest="${dir.workspace}/combit.ListLabel24/manifest.mf">
+            <fileset dir="${dir.workspace}/combit.ListLabel24/bin"/>
         </jar>
     </target>
 </project>
