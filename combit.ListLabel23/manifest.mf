@@ -1,0 +1,5 @@
+Name: combit/ListLabel24
+Class-Path: javonet-1.5.jar combit.ListLabel24.dll
+Specification-Title: combit List&Label 24
+Specification-Version: 24
+Specification-Vendor: combit
